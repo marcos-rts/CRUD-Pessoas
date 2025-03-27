@@ -1,0 +1,19 @@
+CREATE DATABASE rh_system;
+USE rh_system;
+
+CREATE TABLE colaboradores (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    cpf VARCHAR(14) UNIQUE NOT NULL,
+    data_nascimento DATE NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    telefone VARCHAR(15) NOT NULL,
+    cargo VARCHAR(50) NOT NULL,
+    departamento VARCHAR(50) NOT NULL,
+    data_admissao DATE NOT NULL,
+    salario DECIMAL(10,2) NOT NULL,
+    endereco TEXT NOT NULL,
+    ativo BOOLEAN DEFAULT TRUE,
+    data_criacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    data_atualizacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
