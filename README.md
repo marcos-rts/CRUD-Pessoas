@@ -105,8 +105,8 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 Para dúvidas ou sugestões, entre em contato:
 
-- Email: seuemail@exemplo.com
-- GitHub: [seuusuariogithub](https://github.com/seuusuariogithub)
+- Email: marcosreis.santos384@outlook.com.br
+- GitHub: [seuusuariogithub](https://github.com/marcos-rts)
 
 ---
 
