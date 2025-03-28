@@ -106,7 +106,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 Para dúvidas ou sugestões, entre em contato:
 
 - Email: marcosreis.santos384@outlook.com.br
-- GitHub: [seuusuariogithub](https://github.com/marcos-rts)
+- GitHub: [Marcos-rts](https://github.com/marcos-rts)
 
 ---
 
